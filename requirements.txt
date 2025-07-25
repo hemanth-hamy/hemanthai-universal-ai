@@ -1,10 +1,11 @@
+
 streamlit
+pandas
 openai
-pillow
 python-docx
 SpeechRecognition
 whisper
 opencv-python
 pyttsx3
-torch
 gTTS
+torch
