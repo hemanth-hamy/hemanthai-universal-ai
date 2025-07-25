@@ -1,7 +1,8 @@
+
 import streamlit as st
 import pandas as pd
-from utils.fixer_engine import diagnose_issue
-from utils.log_viewer import load_logs, export_logs
+from fixer_engine import diagnose_issue
+from log_viewer import load_logs, export_logs
 
 st.set_page_config(page_title="Hemanth Oracle Fusion AI", layout="wide")
 
