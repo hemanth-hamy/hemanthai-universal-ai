@@ -1,11 +1,2 @@
-
 streamlit
 pandas
-openai
-python-docx
-SpeechRecognition
-whisper
-opencv-python
-pyttsx3
-gTTS
-torch
